@@ -54,42 +54,6 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Bunifu.Licensing.dll" size="1304576">
-      <assemblyIdentity name="Bunifu.Licensing" version="3.2.0.0" publicKeyToken="F89B4760BA7DCB6B" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>NBDK7wy1OOiDs+Si74vCbBrrfQcgYCHPMfM4LVzey6E=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Bunifu.UI.WinForms.BunifuDataGridView.dll" size="86016">
-      <assemblyIdentity name="Bunifu.UI.WinForms.BunifuDataGridView" version="4.1.1.0" publicKeyToken="E8E24CCD28363FE9" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>DDcZ/nKJuH78a2PaxszAXay6SupVvB2BcPKaNZhOTic=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ComponentFactory.Krypton.Toolkit.dll" size="2965504">
-      <assemblyIdentity name="ComponentFactory.Krypton.Toolkit" version="4.6.0.0" publicKeyToken="A87E673E9ECB6E8E" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>jGn13xELwaYb3D2HVOv9P0nZ2ZW53RKazK+INxznHjA=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Google.Protobuf.dll" size="389616">
       <assemblyIdentity name="Google.Protobuf" version="3.14.0.0" publicKeyToken="A7D26565BAC4D604" language="neutral" processorArchitecture="msil" />
       <hash>
@@ -138,38 +102,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Krypton.Toolkit.dll" size="4140032">
-      <assemblyIdentity name="Krypton.Toolkit" version="65.22.4.94" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Vq9YDWSiQcIM048N9lNMkdNtJI3pog0Z5vE3KHWA780=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Krypton.Toolkit.Suite.Extended.DataGridView.dll" size="83968">
-      <assemblyIdentity name="Krypton.Toolkit.Suite.Extended.DataGridView" version="65.22.4.94" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>6n9ngO5zLgDn+Sb8pJfQn/+qAKAPd5nPQtxo+9mVNaw=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ModernDesignTutorial.exe" size="5067200">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ModernDesignTutorial.exe" size="5064640">
       <assemblyIdentity name="ModernDesignTutorial" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Vb+oDLcu0gL5UHpV9b43x/wh344z+M9w2hRLjLNy90Y=</dsig:DigestValue>
+        <dsig:DigestValue>2mcX/qeCYydvA9m/MBMT1+JhD2zO+F3gdszBy3OeZ7I=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -275,22 +215,22 @@
       <dsig:DigestValue>+EOWeu1OlmCIxuDiGTgk0KddXzIJqLK2uyCKJKP9mgY=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="bin\Debug\ModernDesignTutorial.exe" size="5066752">
+  <file name="bin\Debug\ModernDesignTutorial.exe" size="5063680">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>DbflDF6Ii/TECBTudSmTy+VCJYgtsYrTRV/J9Wd4orM=</dsig:DigestValue>
+      <dsig:DigestValue>Po3i8bOxAh/3ZAiNTuVkie5aVC2NW8ESmyJ5f2UIf8c=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="bin\Debug\ModernDesignTutorial.pdb" size="110080">
+  <file name="bin\Debug\ModernDesignTutorial.pdb" size="108032">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>qoYkph47snSdqWSZ4bIOHKn68Y1OshkzRchA6+gmdWw=</dsig:DigestValue>
+      <dsig:DigestValue>roWcMD4eU55eE4V+ea4Ba5U/3N/dZXvW0TFJx+KfrGM=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Database\Database.mdf" size="8388608" writeableType="applicationData">
@@ -311,13 +251,13 @@
       <dsig:DigestValue>KmEQBoT6jAZReZo/QZ2HxxT/R+b67T5SYsyQ6oZVmSM=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="ModernDesignTutorial.exe.config" size="565">
+  <file name="ModernDesignTutorial.exe.config" size="552">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>KgVDbvLTnrGqv/bJep8nqNqmI3Qhdr1KgezDEArnBaw=</dsig:DigestValue>
+      <dsig:DigestValue>9MkSZCAapjHf5rCdUZRBXA/u64jtX9I4ddnQnxqsheo=</dsig:DigestValue>
     </hash>
   </file>
-<publisherIdentity name="CN=DESKTOP-PC\leoga" issuerKeyHash="79bab9e80fc0d47e5df1ecacd9f845f8f9c807be" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>yFPUekbuuqU9GDnugbGtWHRoZFxzl4tu4kiDV6iNZPk=</DigestValue></Reference></SignedInfo><SignatureValue>LPelDNEH3RDlm0346wQbbu4o0OMgAyUkMnsO7cUBKKHOYaT/cFKu5+DdhXeNMgObwNCiJ30tt5ZHyXKiji4zh+ShVWrRhEmT8hlYuWB6EG0sbJG9qbnPg2tiiOH01kphmxQMssgKH2fcFWZy7xJdyotNP2pn5kgAdC+fDaCaONc=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>wRDXA25E285epJ64N0xNfuJ+742vsDeSqA7MiHlPudrPdC/qAuVNGpv09gk1SVFw+aFKbIFXdhfCR+Kw4v2+YzkWHsROKaaiHhChVPTe28k9rg11BeZnteFXSTKDDFmUq1kRQBE84fK9AeEfsbVTk58/wImLKcnMa2CKEGKxJ6U=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="f9648da8578348e26e8b97735c64687458adb181ee39183da5baee467ad453c8" Description="" Url=""><as:assemblyIdentity name="ModernDesignTutorial.exe" version="1.0.0.10" publicKeyToken="592a3b53c2394278" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-PC\leoga</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>373cR0b/vh+H4qiVtDqENy+XtGPA59uKdsbu7jckS1k=</DigestValue></Reference></SignedInfo><SignatureValue>GDAszvH7OAcvyVHJDHX3nTGQlEBQtpuSE0MY8H9+rl/u9oGVuc3ZHSWp+CiwzewHaqz9caPoOz6EyKRXLyqoL+qSzCSPXVK63IqKKAdVvDaELP8rVWJAg8JgUxQ36g3/J3hVd8GAE9UmqdGp6q7HV6Pc9fMhV2RQqPQoPxMJFQc=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>wRDXA25E285epJ64N0xNfuJ+742vsDeSqA7MiHlPudrPdC/qAuVNGpv09gk1SVFw+aFKbIFXdhfCR+Kw4v2+YzkWHsROKaaiHhChVPTe28k9rg11BeZnteFXSTKDDFmUq1kRQBE84fK9AeEfsbVTk58/wImLKcnMa2CKEGKxJ6U=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB2TCCAUKgAwIBAgIQE3vbzG+Lt6ZFaXXHW5bWXzANBgkqhkiG9w0BAQsFADArMSkwJwYDVQQDHiAARABFAFMASwBUAE8AUAAtAFAAQwBcAGwAZQBvAGcAYTAeFw0yMjA0MTIxODA5MzRaFw0yMzA0MTMwMDA5MzRaMCsxKTAnBgNVBAMeIABEAEUAUwBLAFQATwBQAC0AUABDAFwAbABlAG8AZwBhMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDBENcDbkTbzl6knrg3TE1+4n7vja+wN5KoDsyIeU+52s90L+oC5U0am/T2CTVJUXD5oUpsgVd2F8JH4rDi/b5jORYexE4ppqIeEKFU9N7byT2uDXUF5me14VdJMoMMWZSrWRFAETzh8r0B4R+xtVOTnz/AiYspycxrYIoQYrEnpQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBACYuumtVZ8Cfa5QAmAtGupsvhj2xPwtWgKRQoOaNvo1nNT4BGhNa8ml5rSRRsaXBZFbLCtIHDmBPD8dhuQ5qXsTLAGfUG9uSNc9iJooHA+F1J5IuzPfPd65/P8ix31xvlYS4LDaXSMChKLtyN7RbU1a9xA+BoBoJPt2O0TcKqW0j</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
+<publisherIdentity name="CN=DESKTOP-PC\leoga" issuerKeyHash="79bab9e80fc0d47e5df1ecacd9f845f8f9c807be" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>GEdONTYE3uQLSb4Ak+B7RIJcLG6p3X1n2b2kuWlQ55w=</DigestValue></Reference></SignedInfo><SignatureValue>HJIYzKoMd9+Mukv7copmu1Lf4VANlHIvWnqMuL58Rs0xEWP1he81O3I2svrZ6Ledvz5vlA9Mgza5eS2J//lx4Q/9BTR/5xjIa+qV4veA6THMTiwg4oUd59X3eppYoiyaVelZMbVCXBk36jV0exSOhCTolWEc3TbTYDN8ZlndfR8=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>wRDXA25E285epJ64N0xNfuJ+742vsDeSqA7MiHlPudrPdC/qAuVNGpv09gk1SVFw+aFKbIFXdhfCR+Kw4v2+YzkWHsROKaaiHhChVPTe28k9rg11BeZnteFXSTKDDFmUq1kRQBE84fK9AeEfsbVTk58/wImLKcnMa2CKEGKxJ6U=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="9ce75069b9a4bdd9677ddda96e2c5c82447be09300be490be4de0436354e4718" Description="" Url=""><as:assemblyIdentity name="ModernDesignTutorial.exe" version="1.0.0.10" publicKeyToken="592a3b53c2394278" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-PC\leoga</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>s+XmB9kGAYZP0L8y/K2Hvq85skSbhpdsl10e6mLPR8o=</DigestValue></Reference></SignedInfo><SignatureValue>oxndN2D8JJma9likuDhObvbSiGk3id1SGW2P1V2XzXO74fCojg8aT/YCZZf5usT0fc0uTd21AAPaFCJDD+gjUsefB9+FShmMskU8fRTv9DYHv3IvFWZP/bUpK7o0UrJKKI9wiYM6Rw3AcVGpbelqW8qfBHSL8HuU2rYkszW+G/w=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>wRDXA25E285epJ64N0xNfuJ+742vsDeSqA7MiHlPudrPdC/qAuVNGpv09gk1SVFw+aFKbIFXdhfCR+Kw4v2+YzkWHsROKaaiHhChVPTe28k9rg11BeZnteFXSTKDDFmUq1kRQBE84fK9AeEfsbVTk58/wImLKcnMa2CKEGKxJ6U=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB2TCCAUKgAwIBAgIQE3vbzG+Lt6ZFaXXHW5bWXzANBgkqhkiG9w0BAQsFADArMSkwJwYDVQQDHiAARABFAFMASwBUAE8AUAAtAFAAQwBcAGwAZQBvAGcAYTAeFw0yMjA0MTIxODA5MzRaFw0yMzA0MTMwMDA5MzRaMCsxKTAnBgNVBAMeIABEAEUAUwBLAFQATwBQAC0AUABDAFwAbABlAG8AZwBhMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDBENcDbkTbzl6knrg3TE1+4n7vja+wN5KoDsyIeU+52s90L+oC5U0am/T2CTVJUXD5oUpsgVd2F8JH4rDi/b5jORYexE4ppqIeEKFU9N7byT2uDXUF5me14VdJMoMMWZSrWRFAETzh8r0B4R+xtVOTnz/AiYspycxrYIoQYrEnpQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBACYuumtVZ8Cfa5QAmAtGupsvhj2xPwtWgKRQoOaNvo1nNT4BGhNa8ml5rSRRsaXBZFbLCtIHDmBPD8dhuQ5qXsTLAGfUG9uSNc9iJooHA+F1J5IuzPfPd65/P8ix31xvlYS4LDaXSMChKLtyN7RbU1a9xA+BoBoJPt2O0TcKqW0j</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
